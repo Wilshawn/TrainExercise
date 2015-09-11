@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1295890587 source:c:\users\wilshawn\desktop\train\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<list>
+	<cmath>
+	"car.h"
+
+1295890643 c:\users\wilshawn\desktop\train\car.h
+
